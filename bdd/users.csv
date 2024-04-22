@@ -1,0 +1,5 @@
+user_id,Fname,Lname,email,password
+849c5d34-549a-4349-a390-9976bc026686,darke,sasuk,aa,aa
+cae19c07-fd8d-11ee-b0ac-d8bbc12499d9,John,Doe,john.doe@example.com,87873
+cae1cd72-fd8d-11ee-b0ac-d8bbc12499d2,Alice,Smith,alice.smith@example.com,securepassword
+cae1d01f-fd8d-11ee-b0ac-d8bbc12499d3,Michael,Brown,michael.brown@example.com,qwerty123
